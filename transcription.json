@@ -1,0 +1,2333 @@
+{
+  "metadata": {
+    "title": "藥文",
+    "catalogue_title": "藥文",
+    "alternate_title": "Dược văn",
+    "roman_title": "Dược văn",
+    "author": "撰人未詳",
+    "date": "館目未載年代，實勘估十九世紀抄本。",
+    "location": "越南",
+    "repository": "越南國家圖書館",
+    "repository_en": "National Library of Vietnam",
+    "collection": "漢喃特藏",
+    "shelfmark": "R.312",
+    "catalogue": "https://lib.nomfoundation.org/collection/1/volume/951/",
+    "rights": "https://www.nomfoundation.org/About-the-Foundation/Terms-of-use?uiLang=en",
+    "image_system": "catalogue",
+    "catalogue_html_digits": 3,
+    "description": "越南漢文醫論抄本，談問診時如何辨體質、病程、情志及境遇。原件有朱讀點與改筆。",
+    "manifest_url": null,
+    "manifest_sha256": null,
+    "record_id": "NLV0312V01",
+    "edition": "0.1.0",
+    "catalogue_main_scope": "Complete manuscript, official viewer openings 1–16",
+    "version": "0.1.0",
+    "dataset_title": "藥文（十九世紀抄本（實勘推定），越南國家圖書館 R.312） / Dược văn [Discourse on medical diagnosis]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "catalogue_page": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/1",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/1",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-001.jpg",
+      "label": {
+        "none": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "52385594e90dace1a5ca747a7f08761a0db72c028fa62141c56b90b39688507e",
+      "bytes": 660149,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "d02c3bef366e6406dae2c22dfca72203749059eb6b15beb0048db4d40f828a0f",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "藥文"
+            },
+            {
+              "text": "凡人肥則痰多而腠理密氣不行而變病生人瘦則血少而腠理疎"
+            },
+            {
+              "text": "熱妄行而痰大盛肥而熱甚凉藥不已降者甚內有伏寒"
+            },
+            {
+              "text": "瘦而寒盛熱藥不已温者其內有伏寒必以有汗無汗斷之"
+            },
+            {
+              "text": "此為允的也若瘦而熱燥乃其常理不須贅說膏粱富家"
+            },
+            {
+              "text": "飲食肥膩熱氣沖鬱於胃經此癰疽之所由起然多畜妻"
+            },
+            {
+              "text": "妾氣血大虛及家貧素儉□者亦多寒淡泊食蔬飲食踈"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右三旁改（伏寒之寒側）",
+              "text": "熱",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右頁上緣藍墨",
+              "text": "Dược văn",
+              "column_anchor": null,
+              "color": "blue"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右頁下欄外藍墨",
+              "text": "R 312",
+              "column_anchor": null,
+              "color": "blue"
+            },
+            {
+              "type": "seal",
+              "location": "右頁方印",
+              "text": "THU VIEN QUOC GIA",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "菜寒氣來侵於脾部此腫泄之所由生然氣寒□滯"
+            },
+            {
+              "text": "泄不宣及食用不節者亦多熱先貧後富喜而心虛且有"
+            },
+            {
+              "text": "膏粱之厚積先富後貧憂而脾鬱所有淡泊之宿停功名"
+            },
+            {
+              "text": "早達志愈放而氣血愈衰念欲不儻情愈薄而奔豚病道"
+            },
+            {
+              "text": "夫耽孽妾葛藟凌樛女娶醜夫碔砆亂玉誰已解心肝"
+            },
+            {
+              "text": "之薄怨乎老人續嗣花□弄情少歲洞房瑟琴盈耳安"
+            },
+            {
+              "text": "能保精氣之不泄乎足膝瘦軟素有則為腎虛暴見則"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左四旁改（念側）",
+              "text": "願",
+              "column_anchor": 4,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "左面：左六疊改（花下），墨筆擁擠，原字及補字待回圖 左面：正文按雙面右到左、各面右欄到左欄；朱點可見，未逐點編碼。右六、左一近書口有孔、折與遮墨。右二「不已降」「甚」及右三「不已温」、左四「念」及「儻」、左五「耽」「樛」「已」、左六「薄」均待覆核。此幅曾在選題階段觀察既有未校 OCR 示例，今以原圖錄字，該示例所在幅不能稱盲讀。"
+    },
+    {
+      "image": 2,
+      "catalogue_page": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/2",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/2",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-002.jpg",
+      "label": {
+        "none": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "479a96baaad5707a00ab383124e002080dd8a475f3025718e64b0cc349cf2943",
+      "bytes": 694842,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "599b9141fa05da597e9da6bb1089ac5e56d3112b5e24a419c0d732af8fb38edb",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "為脚氣足脚痛腫麻木則為風濕枯細則為血虛瘡疹血少"
+            },
+            {
+              "text": "宜養血不可散疎白濁精虛可補氣宜陽汗下痔瘡便血"
+            },
+            {
+              "text": "凉藥殊因疙塊瘋癲疎肝消導手足左癱而有失右癈而"
+            },
+            {
+              "text": "有痰肩背外痛為外傷久病為虛鬱徑行而遇感不可"
+            },
+            {
+              "text": "妄弛經白而滯不通頃來忌食常吞不寢火盛血衰平日"
+            },
+            {
+              "text": "好眠多痰氣滯凡百病當先問後來救病机而欲調品藥"
+            },
+            {
+              "text": "不但男子先問房勞女子先問經孕為治法也膾菜食□"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "右下頁次",
+              "text": "2",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "脾部寒食草木酸澁胃經熱熾碗中食疙心下痰留"
+            },
+            {
+              "text": "緣醉口於膏粱之味臍下水停胷間食積芳迷心於茶酒"
+            },
+            {
+              "text": "之所脾虛受耳腎虛受藏另推臟氣熱腸好冷冷腸"
+            },
+            {
+              "text": "好熱不熟越常經凡百病先問飲食隨投藥以除宿積不"
+            },
+            {
+              "text": "過多食則損脾陰多飲則傷胃氣為正机也"
+            },
+            {
+              "text": "從家得病內邪生出外邪來由多出飲食起居之不節"
+            },
+            {
+              "text": "行路得病外氣更侵中氣損蓋益增風寒暑濕之來侵"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "左面：朱點、墨點分色可見，未逐點編碼。右三「殊」「癈」、右四「鬱徑」、右五「弛」「頃」「吞」、右六「後」「欲」，左一「熱熾碗」、左二「芳迷」、左三「藏另推」及「熱腸」、左四「熟越」均待覆核。右末近脊折損。"
+    },
+    {
+      "image": 3,
+      "catalogue_page": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-003.jpg",
+      "label": {
+        "none": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "a9d28a20a0fd9d1e68b3c51b54e7d6edc05c150c01e5061993d0204f5e24d54d",
+      "bytes": 705456,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "8d69ebf3c1197eee41801b324f58a96ca1a6500bf67b47c633ba8d71d9771f2b",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "樹下葬身彎弓股似折田中耕耨揮汗成漿此後天氣血"
+            },
+            {
+              "text": "之勞於動作雞五更而早起金闕夜鼕烏半日而未還玉堂文"
+            },
+            {
+              "text": "案此先天之水火之衰於思慮也乳下紅裙過胸心肝之交會"
+            },
+            {
+              "text": "會股間玉帶阻衝任肺腎之運行則其四男子之氣血者可隨"
+            },
+            {
+              "text": "處而得因也未合良緣碧銀河星之望已成佳配別秋天乍久"
+            },
+            {
+              "text": "之行則其解心肝之鬱熱者可用甚而滋精也一人挑除千"
+            },
+            {
+              "text": "人莫愆百陣攻兵一功莫奏陽氣之盛衰豈不係於宗"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右二旁插（作下）",
+              "text": "也",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "右二末段旁改（還側）",
+              "text": "還",
+              "column_anchor": 2,
+              "color": "unknown"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "右三旁註（胸下側）",
+              "text": "腹",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "右五旁改",
+              "text": "漢",
+              "column_anchor": 5,
+              "color": "unknown"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "右六旁改（滋側）",
+              "text": "滋",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "右下頁次",
+              "text": "3",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "筋之強弱乎春色洋々百求皆遂低回默々一事不好"
+            },
+            {
+              "text": "志々心之和鬱豈不在於此處之順逆乎溼庸麤裡醜雞"
+            },
+            {
+              "text": "誤巴豆黃連之用則代天工而旋轉者傷暑弱而寒燥矣"
+            },
+            {
+              "text": "往華山前為虎壓東皇赤帝之寅則煞人意而憂慰者"
+            },
+            {
+              "text": "可朝四而暮三多一團積而脹滿良伙莫非血海成癥一"
+            },
+            {
+              "text": "塊結而潮熱全無定是本源種玉房涼之汚滯藥品"
+            },
+            {
+              "text": "之禁忌所當審明矣胸腹熱火脚掌冷寒腎虛大異"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "和鬱",
+          "candidates": [],
+          "note": "朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "溼庸麤裡醜雞",
+          "candidates": [],
+          "note": "朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "往",
+          "candidates": [],
+          "note": "朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "寅",
+          "candidates": [],
+          "note": "朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "良伙",
+          "candidates": [],
+          "note": "朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "涼",
+          "candidates": [],
+          "note": "朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "審",
+          "candidates": [],
+          "note": "朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+        }
+      ],
+      "observations": "右面：右五旁改，河側寫漢，佳側有朱筆 左面：左六疊改（本側），朱墨相疊，見近「本」之補寫，待分手別 左面：朱點、圈畫可見，未逐點編碼。右一「葬」「耨」、右二「闕」「鼕」、右四首「會」與右三末重出而留、右六「甚」與「挑」、右七「愆」待核。左二「和鬱」及「溼庸麤裡醜雞」、左四「往」「寅」、左五「良伙」、左六「涼」與左七「審」待核。左三為泛述舊有用藥失誤，無份量或製作。"
+    },
+    {
+      "image": 4,
+      "catalogue_page": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-004.jpg",
+      "label": {
+        "none": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "faac73f85b8a0f5a521efc5393854b57c6dcd0b0d1397d17dca2e0e9809a38fa",
+      "bytes": 688506,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "f9998beaa8b92c4a9825bdd96fbc03da0a2669bd27f2d7c2b6ca9a493e825a82",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "多喜氣散多怒氣鬱逆順不同氣液之升降鬱結之"
+            },
+            {
+              "text": "疎導所當急也如斯數目推測無窮畧以為序耳"
+            },
+            {
+              "text": "問醫道何取義乎先天後天陰陽水火氣血臟腑脉絡四辰五行"
+            },
+            {
+              "text": "干支標本運氣古稱詳明亦既見止彼表裏虛實寒熱邪"
+            },
+            {
+              "text": "正各條分而如效見病求方對症用藥正則養之邪則祛之"
+            },
+            {
+              "text": "此屬常法若夫陰分氣虛陽盛氣虛陰分血虛陽分血虛"
+            },
+            {
+              "text": "仍症□治之有何方為良見痰不治痰見血不治血無汗不"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右三上端",
+              "text": "問",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "右七旁改",
+              "text": "明",
+              "column_anchor": 7,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右下頁次",
+              "text": "4",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "救汗見熱休治熱然則何自治之隔二隔三之治補母補子"
+            },
+            {
+              "text": "之方血虛而補氣風盛而治火而夫治熱而用桂附治寒而"
+            },
+            {
+              "text": "用芩連以熱藥解渴以利藥止注九味羌活湯奚用生地"
+            },
+            {
+              "text": "人參敗毒湯奚固人參用蘇子降氣湯治吐血症用金"
+            },
+            {
+              "text": "匱一氣湯治諸脫症其攸有可求乎六味回陽湯治陽亡"
+            },
+            {
+              "text": "也若陰亡何以回之兩虛之症治之尤難補之接之當如何而"
+            },
+            {
+              "text": "可古論云亢則害承廼制有云必先歲氣勿伐天和各推言"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "各",
+          "candidates": [],
+          "note": "朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "注",
+          "candidates": [],
+          "note": "朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "固",
+          "candidates": [],
+          "note": "朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "一氣湯",
+          "candidates": [],
+          "note": "朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "攸",
+          "candidates": [],
+          "note": "朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "接",
+          "candidates": [],
+          "note": "朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "各推",
+          "candidates": [],
+          "note": "朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+        }
+      ],
+      "observations": "右面：右六疊改，陽後見盛形，右旁另有黑墨小字近分，朱墨疊寫，待核 右面：右七旁改，第三字疊寫，其右別寫明 左面：左二旁補，血字的左上側另有二小字，近更夫 左面：朱點、圈畫與短邊線在本幅未逐一編碼。右二所當末字或作庶，右四「亦既見止彼」、右五「各」「效」、右七「仍症□」待核。左一首字近救，左三「注」、左四「固」、左五「一氣湯」「攸」、左六「接」、左七「各推」待核。所見僅治法問答和方名，無配量或製作步驟。"
+    },
+    {
+      "image": 5,
+      "catalogue_page": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/5",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/5",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-005.jpg",
+      "label": {
+        "none": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "affa9724a8173026d2d8340ac748ac921eb7e96f4584dc46c1bfda058d4702c5",
+      "bytes": 695348,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "d3d1d81582837558e0aba1c013477d5be93266a472ab41e3e25b6db671a2f348",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "否夫人之一身合生成數求之易天地定位山澤通氣雷風相搏水"
+            },
+            {
+              "text": "火不相射各於臟腑中証之故"
+            },
+            {
+              "text": "且夫天地之大方曰生上古至人作而醫述其要則為于生之而已"
+            },
+            {
+              "text": "此醫之為義也惟其好生是以厚生故於先天後天陰陽水火氣"
+            },
+            {
+              "text": "血臟腑脉絡四辰五行干支標本運氣無不窮究旁推深"
+            },
+            {
+              "text": "求奧旨雖病机之變藥有不齊要範圍之不外是矣試畧"
+            },
+            {
+              "text": "陳之先天者無形之水火也後天者有形之氣血也陽主升陰主"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右下頁次",
+              "text": "5",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "降陰陽者天地之道也水本寒火者熱水火者陰陽之微也氣乃"
+            },
+            {
+              "text": "一身動靜云為之用血乃百骸灌漑榮養之府臟者五藏也藏"
+            },
+            {
+              "text": "諸神而精氣流通腑府庫也倉托物而輸瀉出納春夏秋冬臟腑應"
+            },
+            {
+              "text": "四辰而生長收藏金木水火土臟腑在五行而生尅制化部有三"
+            },
+            {
+              "text": "候有九脉乃血氣之波瀾一息之中自有陰陽之玄妙手經六足"
+            },
+            {
+              "text": "經六絡乃經絡之流行一身之內亦有左右之陰陽春夏秋冬臟"
+            },
+            {
+              "text": "腑應四辰而生長收藏金木水火土臟腑在五行而生尅制化"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左一旁註，道下與微下兩個「也」字旁各有小字，小字形近「地」者在第二處，待核 左面：朱點、短線未逐筆編碼。右二「各」「証」、右三「方」「于」候讀。左二「漑」「府」「五」、左三「倉托」「輸瀉」、左五「候」候讀。左四與左七處文字近重複，分依原欄保留。"
+    },
+    {
+      "image": 6,
+      "catalogue_page": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/6",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/6",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-006.jpg",
+      "label": {
+        "none": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "7806a4b82b18be7199227e3af36d1ed8c58623a9fdadb96a3d501d7275d15341",
+      "bytes": 728634,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "829fd66d9be68565f3ae89561ddd18a3db3ff05233065743bf8bfbf21529926f",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "甲膽乙肝丙小腸干有十而臟腑陰陽各以類推肺寅大卯胃辰"
+            },
+            {
+              "text": "經支十二而陰陽之臟腑亦以類分經為標臟為本身既有"
+            },
+            {
+              "text": "標本之殊先病本傳為標病亦有本標之異天干取運地支"
+            },
+            {
+              "text": "取氣主運主氣萬載而不易客運客氣每歲而迭迁求之"
+            },
+            {
+              "text": "內經素難諸書其旨亦可槩見矣夫百病難逃乎八要表"
+            },
+            {
+              "text": "裏虛實寒熱邪正之謂也各分條分而如截正氣在人陽"
+            },
+            {
+              "text": "為表陰為裏邪氣客人表為陰裏為陽即陰陽而表裏各如"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右下頁次",
+              "text": "6",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "矣虛者脉虛皮寒氣弱泄利少食實者脉盛皮熱腹脹前"
+            },
+            {
+              "text": "後不通即五實五虛而虛實判矣新病正氣壯而寒溫有"
+            },
+            {
+              "text": "多久病正氣衰而溫熱愈盛邪有正邪微邪虛邪虛"
+            },
+            {
+              "text": "邪實邪賊邪之異正有元氣宗氣榮氣衛氣清氣之殊"
+            },
+            {
+              "text": "即五實五虛各條如矣然治之常無定法哉邪之客于"
+            },
+            {
+              "text": "表分則汗以散之麻黃桂枝之類是也邪之傳于裏分"
+            },
+            {
+              "text": "則利以和之承氣抵當之類是也虛則補實則法而中"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右一旁註（大卯側），一朱小字形近陽 左面：朱點、短線未逐筆編碼。右一「大卯」、右二首「經」、右四「迭迁」、右五「槩」、右六「各分條分」「如截」、右七末「如」候讀。左三末有一短竪劃，未判其為勾畫或重文符號；下欄首仍作邪。左四「宗氣」「衛氣」、左五「常」「客」、左七「利」「法」候讀。方名僅在一般辨治史敘事，未見配量或製法。"
+    },
+    {
+      "image": 7,
+      "catalogue_page": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-007.jpg",
+      "label": {
+        "none": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "53a4b9e5ec63cfe6cfc594a17e4efdc13bbe4ad2244020326ba59771010bf87b",
+      "bytes": 675342,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "005e50ae6b2796685dbfcf5f06182f22fe4e00c417ec580e0debc9221b8fa16a",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "溫苦寒之劑所當異治熱以寒治寒以熱而桂姜芩連之用"
+            },
+            {
+              "text": "自有分方病之久纏則當養正養正若待小人正己而無過察"
+            },
+            {
+              "text": "邪之初來務要疎邪祛邪猶追盜賊擒魁而怨脅從此"
+            },
+            {
+              "text": "道治常法也至若氣血自有陰陽之虛哉各分如哉勞倦飲食"
+            },
+            {
+              "text": "均傷氣分而又有陰氣陽氣之分思慮色慾均傷血分又"
+            },
+            {
+              "text": "若分陰血陽血之分乎胃氣虛而晝熱夜輕口中無味此陽"
+            },
+            {
+              "text": "分之氣虛也脾氣虛而生倦食日出而甚乃陰分之氣虛也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右六旁改",
+              "text": "虛",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "右七旁改",
+              "text": "虛",
+              "column_anchor": 7,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右下頁次",
+              "text": "7",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "夜熱晝輕口中有味色慾傷肝而陰分之血虛也神昏恍惚"
+            },
+            {
+              "text": "夜半轉劇思慮傷心乃陽分之血虛也于此如之而陰陽氣"
+            },
+            {
+              "text": "血之分明用藥自不紊矣治之者桂附□□誠補陽氣之"
+            },
+            {
+              "text": "良方參朮炙草實補陰氣之妙劑補陽血之神丹芪參為"
+            },
+            {
+              "text": "脾誠不可缺補陰血之要藥逍遙四物在所必需蓋氣陽"
+            },
+            {
+              "text": "而血陰也分陰分陽之義也氣血自有陰陽互為其根之理也見"
+            },
+            {
+              "text": "東垣丹溪之論而可見矣故施藥療病之法必當窮受病之"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "轉",
+          "candidates": [],
+          "note": "朱點與短線未逐筆編碼。右二「過察」、右三「擒」「怨脅從此」、右四「如哉」、右六首二字、右七「生倦」「日出」、左二「轉」「于此如之」、左三附後二字、左四末「芪參」、左五首「脾」皆待覆核。左三只錄可識別者，二缺字是手寫疑讀。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "于此如之",
+          "candidates": [],
+          "note": "朱點與短線未逐筆編碼。右二「過察」、右三「擒」「怨脅從此」、右四「如哉」、右六首二字、右七「生倦」「日出」、左二「轉」「于此如之」、左三附後二字、左四末「芪參」、左五首「脾」皆待覆核。左三只錄可識別者，二缺字是手寫疑讀。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "芪參",
+          "candidates": [],
+          "note": "朱點與短線未逐筆編碼。右二「過察」、右三「擒」「怨脅從此」、右四「如哉」、右六首二字、右七「生倦」「日出」、左二「轉」「于此如之」、左三附後二字、左四末「芪參」、左五首「脾」皆待覆核。左三只錄可識別者，二缺字是手寫疑讀。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "脾",
+          "candidates": [],
+          "note": "朱點與短線未逐筆編碼。右二「過察」、右三「擒」「怨脅從此」、右四「如哉」、右六首二字、右七「生倦」「日出」、左二「轉」「于此如之」、左三附後二字、左四末「芪參」、左五首「脾」皆待覆核。左三只錄可識別者，二缺字是手寫疑讀。"
+        }
+      ],
+      "observations": "右面：右六旁改，陰下血較粗；胃氣下黑墨重寫為虛，原寫存殘筆 右面：右七旁改，脾氣下黑墨重寫為虛，原寫存殘筆 左面：左一旁改，血後虛字下疊墨 左面：左二旁改，血後虛字下疊墨 左面：朱點與短線未逐筆編碼。右二「過察」、右三「擒」「怨脅從此」、右四「如哉」、右六首二字、右七「生倦」「日出」、左二「轉」「于此如之」、左三附後二字、左四末「芪參」、左五首「脾」皆待覆核。左三只錄可識別者，二缺字是手寫疑讀。"
+    },
+    {
+      "image": 8,
+      "catalogue_page": 8,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-008.jpg",
+      "label": {
+        "none": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "daf0206d49f9f19981de12e50028e52901f00010432d6eaa3cdb1a2e741a9ce3",
+      "bytes": 704458,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "59b24de40ce877f8bc20a207f6db884f0b473b7d053b7ed950a2e8e17a1d67d0",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "源如咳嗽氣喘痰宜治也以痰生於脾則化痰在行脾之津液"
+            },
+            {
+              "text": "崩帶吐衂血宜固也以血生於氣故血脫即當固氣之機微客邪在"
+            },
+            {
+              "text": "表汗以發之汗多而不汗則滋陰生血以為求汗之源無徒可於"
+            },
+            {
+              "text": "辛香終為血海之累壯熱無休熱宜清也寒之而不寒則壯水"
+            },
+            {
+              "text": "之源以鎮陽光之熾無徒可於清解終為胃腑之傷是雖不"
+            },
+            {
+              "text": "治痰血汗熱而實求其本治之也然深意若惟是哉東方木"
+            },
+            {
+              "text": "盛因金虛也欲補金而制木則中州之脾土宜培若因火盛而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右三旁改",
+              "text": "求",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右下頁次",
+              "text": "8",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "尅金則當補北方之水即所謂法因方之大此隔二隔三之"
+            },
+            {
+              "text": "治也中州土虛因火衰也欲補母以實子則心火之母當救"
+            },
+            {
+              "text": "若因子虛而窮母即當補子臟之金使不窮脾家之氣此"
+            },
+            {
+              "text": "補母補子之方也率此而類推之氣虛所當補也而甘溫之劑"
+            },
+            {
+              "text": "豈濟血分之神功故血虛必先補氣以氣也生血也風盛所"
+            },
+            {
+              "text": "當治也而清涼之劑豈泄血中之燥熱故治風而先治火以"
+            },
+            {
+              "text": "風生於火也每夫身熱舌燥而口喜熱湯熱非眞熱也乃水極"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "法因方之大",
+          "candidates": [],
+          "note": "朱點、圈畫和短線未逐筆編碼。選題曾調閱本幅公開未校 OCR 測試覆蓋及誤字；初錄依固定影像重新逐欄辨讀，屬已知 OCR 的讀圖。右一「在行脾」、右二「衂」「客」、右三與右五「可」、右六「若惟」、左一「法因方之大」、左四「率」、左五「豈濟」「也」、左六「豈泄」、左七「每夫」待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "率",
+          "candidates": [],
+          "note": "朱點、圈畫和短線未逐筆編碼。選題曾調閱本幅公開未校 OCR 測試覆蓋及誤字；初錄依固定影像重新逐欄辨讀，屬已知 OCR 的讀圖。右一「在行脾」、右二「衂」「客」、右三與右五「可」、右六「若惟」、左一「法因方之大」、左四「率」、左五「豈濟」「也」、左六「豈泄」、左七「每夫」待核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "豈濟",
+          "candidates": [],
+          "note": "朱點、圈畫和短線未逐筆編碼。選題曾調閱本幅公開未校 OCR 測試覆蓋及誤字；初錄依固定影像重新逐欄辨讀，屬已知 OCR 的讀圖。右一「在行脾」、右二「衂」「客」、右三與右五「可」、右六「若惟」、左一「法因方之大」、左四「率」、左五「豈濟」「也」、左六「豈泄」、左七「每夫」待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "也",
+          "candidates": [],
+          "note": "朱點、圈畫和短線未逐筆編碼。選題曾調閱本幅公開未校 OCR 測試覆蓋及誤字；初錄依固定影像重新逐欄辨讀，屬已知 OCR 的讀圖。右一「在行脾」、右二「衂」「客」、右三與右五「可」、右六「若惟」、左一「法因方之大」、左四「率」、左五「豈濟」「也」、左六「豈泄」、左七「每夫」待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "豈泄",
+          "candidates": [],
+          "note": "朱點、圈畫和短線未逐筆編碼。選題曾調閱本幅公開未校 OCR 測試覆蓋及誤字；初錄依固定影像重新逐欄辨讀，屬已知 OCR 的讀圖。右一「在行脾」、右二「衂」「客」、右三與右五「可」、右六「若惟」、左一「法因方之大」、左四「率」、左五「豈濟」「也」、左六「豈泄」、左七「每夫」待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "每夫",
+          "candidates": [],
+          "note": "朱點、圈畫和短線未逐筆編碼。選題曾調閱本幅公開未校 OCR 測試覆蓋及誤字；初錄依固定影像重新逐欄辨讀，屬已知 OCR 的讀圖。右一「在行脾」、右二「衂」「客」、右三與右五「可」、右六「若惟」、左一「法因方之大」、左四「率」、左五「豈濟」「也」、左六「豈泄」、左七「每夫」待核。"
+        }
+      ],
+      "observations": "右面：右三旁改，求字右旁有較大的黑墨求；正欄形近朮 左面：朱點、圈畫和短線未逐筆編碼。選題曾調閱本幅公開未校 OCR 測試覆蓋及誤字；初錄依固定影像重新逐欄辨讀，屬已知 OCR 的讀圖。右一「在行脾」、右二「衂」「客」、右三與右五「可」、右六「若惟」、左一「法因方之大」、左四「率」、左五「豈濟」「也」、左六「豈泄」、左七「每夫」待核。"
+    },
+    {
+      "image": 9,
+      "catalogue_page": 9,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/9",
+      "image_url": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "label": {
+        "none": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "4956b68288cab0b802ebef55eb1affe6f109e7961985747e0985c32b346308ea",
+      "bytes": 713019,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "7af7c9c86052d204c874d7d02b7b44d75e954a38beef490d31f9214d658263ed",
+      "content_role": "medical-discourse-manuscript",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "又兼火化欲補眞陰而引火歸源則〔省錄〕以安其窟宅"
+            },
+            {
+              "text": "身寒色滯而便閉煩燥□非眞寒也乃火極又兼水化"
+            },
+            {
+              "text": "數清內熱而引陽為舍則重用芩連以通其鬱過亢長寒"
+            },
+            {
+              "text": "血上越口渴咽乾必用溫熱之劑如全眞八味等方引火歸源而"
+            },
+            {
+              "text": "渴自除此熱因熱用也傷寒邪傳入裏挾熱下熱利必用苦"
+            },
+            {
+              "text": "寒之劑如調胃承氣湯之類攻其熱毒而□自止此通因通"
+            },
+            {
+              "text": "用也九味羌活湯發散劑也而重用生地陰中有陰不為生血為"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣鉛筆號",
+              "text": "9",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "求汗之源而尤以泄血中之熱人參敗毒湯敗毒劑也而重用人"
+            },
+            {
+              "text": "參佐中有補不惟匡正為驅邪之主而尤以助衆藥之長氣載血"
+            },
+            {
+              "text": "升而吐逆法當先順其氣用蘇子降氣湯以降氣使氣降而"
+            },
+            {
+              "text": "血自為經陽氣陰斂而虛脫則當先補其陰用全眞一氣湯"
+            },
+            {
+              "text": "以濟陰使陰長以為陽之守其深意有可求矣古云陽一分不"
+            },
+            {
+              "text": "盡不死故景岳制六味回陽湯以挽回陽脫之危机蓋其意於"
+            },
+            {
+              "text": "陽誠萬全之策也至若陰亡之症惟海上懶翁制保陰而"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "陰",
+          "candidates": [],
+          "note": "左二旁有破孔，主要墨字尚連。左四「陰」下暫讀「斂」，候「歛」，右旁末筆未定。左六「机」依原形。左七末暫作「而」，跨幅接「方」。主本為歷史醫論。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "斂",
+          "candidates": [],
+          "note": "左二旁有破孔，主要墨字尚連。左四「陰」下暫讀「斂」，候「歛」，右旁末筆未定。左六「机」依原形。左七末暫作「而」，跨幅接「方」。主本為歷史醫論。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "机",
+          "candidates": [],
+          "note": "左二旁有破孔，主要墨字尚連。左四「陰」下暫讀「斂」，候「歛」，右旁末筆未定。左六「机」依原形。左七末暫作「而」，跨幅接「方」。主本為歷史醫論。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "而",
+          "candidates": [],
+          "note": "左二旁有破孔，主要墨字尚連。左四「陰」下暫讀「斂」，候「歛」，右旁末筆未定。左六「机」依原形。左七末暫作「而」，跨幅接「方」。主本為歷史醫論。"
+        }
+      ],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左二旁有破孔，主要墨字尚連。左四「陰」下暫讀「斂」，候「歛」，右旁末筆未定。左六「机」依原形。左七末暫作「而」，跨幅接「方」。主本為歷史醫論。"
+    },
+    {
+      "image": 10,
+      "catalogue_page": 10,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/10",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/10",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-010.jpg",
+      "label": {
+        "none": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "a40a478954a6cecb78e74ce818de963194697d00a001d3731eca69ea2997fbf7",
+      "bytes": 670427,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "eb2c74d3dec96dee2ba0025f6da74364bffe9b9d184b6c81809d56d132831ac2",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "方以備倉卒之用熟地三兩峻補眞陰為君以為燈炷加油之"
+            },
+            {
+              "text": "計人參一兩大補元氣為臣無毫刻陰氣以化桂乃□物如一"
+            },
+            {
+              "text": "以五分為佐以鼓舞藥力使眞陰速化誠一回一還之神机先哲"
+            },
+            {
+              "text": "之神功互救□之的也更有氣血兼傷水火俱衰陰陽"
+            },
+            {
+              "text": "相脫謂之兩虛治之為尤難也在氣血則十全八物水火則六"
+            },
+            {
+              "text": "味八味至於脫勢再來補還須接陽虛極則用陽藥以回陽更"
+            },
+            {
+              "text": "求陽中之陰藥兼以接陰也陰虛極則用陰藥以回陰須擇陽"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣鉛筆號",
+              "text": "10",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "中之陽藥兼以續陽也補接二字誠治兩脫之關鍵內經云亢則"
+            },
+            {
+              "text": "害承迺制王氏林氏河間引証紛然求明而反晦然皆無定"
+            },
+            {
+              "text": "其說哉馬玄臺註云六位之氣過甚則必害伏承氣乃生于下"
+            },
+            {
+              "text": "制之使不過亢如脾土為木肝所尅必得肺金氣用方以制"
+            },
+            {
+              "text": "木以復母之讎言見本文土位之下風氣承之句汪氏所謂馬"
+            },
+            {
+              "text": "註竟得明白眞捷誠為諸家之折衷矣又云必先歲氣勿"
+            },
+            {
+              "text": "伐天和謂如歲多淫雨民病多濕治當燥濕佐以風藥風"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "右面：右一「倉卒」照原形暫讀。右二「桂乃□物」中一字、右四「救」下一字未知。右三「一回一還」暫讀。 左面：左三「害伏」與左四「肺金氣」、左六「眞捷」候讀。朱圈、朱點與右旁小直劃另記為句讀或標識。"
+    },
+    {
+      "image": 11,
+      "catalogue_page": 11,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-011.jpg",
+      "label": {
+        "none": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "1184220f0a9a6c414301adfc00f6e761f68e3c562192f56e4378ecfa65c22620",
+      "bytes": 705066,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "e505728cb9f930f8fc84b92c7c203f27fc1456117615e9c8ba94f851cdf92a5b",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "能卷濕此謂必先歲氣也春夏養陰禁用麻桂之類秋冬養"
+            },
+            {
+              "text": "陽禁用石羔知栢之類此勿伐天和也即經註而可推矣夫人"
+            },
+            {
+              "text": "身一小天地也有生之初莫不具生成之效腎與膀胱合一六水"
+            },
+            {
+              "text": "生成之效也心與小腸合二七火生成之效也肝與膽合三八木生"
+            },
+            {
+              "text": "成之效也脾與胃合五十土生成之效也肺與大腸合四九金生成"
+            },
+            {
+              "text": "之效也脾與胃合五十土生成之效也即河圖之效而証矣求之"
+            },
+            {
+              "text": "易說卦傳天地定位山澤通氣風雷相搏水火不相射而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣鉛筆號",
+              "text": "11",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "以人身臟腑証之先天乾無形之體也上焦如霧象天下焦如"
+            },
+            {
+              "text": "瀆象地清者升濁者降是地天位也受穀者濁受氣者清"
+            },
+            {
+              "text": "清者上註于肺濁者下走于胃山澤通氣也肝象震膽象"
+            },
+            {
+              "text": "巽膽着于肝肝着于膽互相衝激豈非雷風相□之象乎腎"
+            },
+            {
+              "text": "屬水心屬火有離東坎西之象水火相濟而不相勝豈非水火"
+            },
+            {
+              "text": "不相射乎求之易而臟腑可見矣"
+            },
+            {
+              "text": "一道脈者天眞和氣也有分二十七有約以八有約當乾中何以貫之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左二「位」右上墨筆補字",
+              "text": "定",
+              "column_anchor": 2,
+              "color": "black"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "左四兩個「着」字右旁小墨字",
+              "text": "依／依",
+              "column_anchor": 4,
+              "color": "unknown",
+              "lines": [
+                "依",
+                "依"
+              ]
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "左四「相」下淡朱補字候讀",
+              "text": "搏",
+              "column_anchor": 4,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "乾無",
+          "candidates": [],
+          "note": "左一「乾無」與左七「當乾中」暫讀。左二正文的「地天」先照形，旁補「定」位置可見。左四「相」下黑字未辨，疑朱補。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "當乾中",
+          "candidates": [],
+          "note": "左一「乾無」與左七「當乾中」暫讀。左二正文的「地天」先照形，旁補「定」位置可見。左四「相」下黑字未辨，疑朱補。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "地天",
+          "candidates": [],
+          "note": "左一「乾無」與左七「當乾中」暫讀。左二正文的「地天」先照形，旁補「定」位置可見。左四「相」下黑字未辨，疑朱補。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "相",
+          "candidates": [],
+          "note": "左一「乾無」與左七「當乾中」暫讀。左二正文的「地天」先照形，旁補「定」位置可見。左四「相」下黑字未辨，疑朱補。"
+        }
+      ],
+      "observations": "右面：右二藥名暫依墨形作「石羔」「知栢」。右五、六的「脾與胃」文字兩見，照錄。朱點與長劃未混入主文。 左面：左一「乾無」與左七「當乾中」暫讀。左二正文的「地天」先照形，旁補「定」位置可見。左四「相」下黑字未辨，疑朱補。"
+    },
+    {
+      "image": 12,
+      "catalogue_page": 12,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-012.jpg",
+      "label": {
+        "none": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "18051f89aa7603e2af9d6c1b2202a964b62ce4e634e2c79f593b7132019fd147",
+      "bytes": 689980,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "289849b95e406cc6e92edf5f67e2cb6d9bc26ea9d90e12f3f73bf430f5735311",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "一道醫知經絡則呼吸靈其周身經絡而直指之歟"
+            },
+            {
+              "text": "一道從來養性延年藥只覺沖和效更長補脾湯有其草"
+            },
+            {
+              "text": "補腎湯有澤□古之精意可知乎有補肝不如補腎又云補"
+            },
+            {
+              "text": "腎不如補脾何從起証"
+            },
+            {
+              "text": "一道藥不執方中病為妙醫無定法隨良取中人之稟受不"
+            },
+            {
+              "text": "同可察就天氣五運中病症立方歟"
+            },
+            {
+              "text": "一道人多則□損壽老人氣血既衰或有胃火□有人事不"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣淡鉛筆號",
+              "text": "12",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "為無□也乃有高壽之微也然則火女不足以損老歟抑有火"
+            },
+            {
+              "text": "陰補老陽之理歟"
+            },
+            {
+              "text": "夫呼吸者氣之□□動者血之波瀾脈所以主宰乎榮衛"
+            },
+            {
+              "text": "氣血互依方泳可求歲月以應周天之常度非天眞和氣之"
+            },
+            {
+              "text": "謂乎岐伯取氣口以象黃鐘而作脈法陽效九也三九二十七"
+            },
+            {
+              "text": "是以教人分為浮沉遲數滑濇虛□長短□□緩芤弦"
+            },
+            {
+              "text": "革勞濡弱細伏動促結代也蓋氣失其平之謂疾有是病"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左三「氣之」後欄旁黑色補字候讀",
+              "text": "橐",
+              "column_anchor": 3,
+              "color": "black"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "澤",
+          "candidates": [],
+          "note": "右三「澤」下一字形近「左」，未定。右五「隨良」、右六「察就」暫讀。右七「多」「則」附近交朱及缺字兩處待核。四個「一道」旁見朱圈。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "隨良",
+          "candidates": [],
+          "note": "右三「澤」下一字形近「左」，未定。右五「隨良」、右六「察就」暫讀。右七「多」「則」附近交朱及缺字兩處待核。四個「一道」旁見朱圈。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "察就",
+          "candidates": [],
+          "note": "右三「澤」下一字形近「左」，未定。右五「隨良」、右六「察就」暫讀。右七「多」「則」附近交朱及缺字兩處待核。四個「一道」旁見朱圈。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "多",
+          "candidates": [],
+          "note": "右三「澤」下一字形近「左」，未定。右五「隨良」、右六「察就」暫讀。右七「多」「則」附近交朱及缺字兩處待核。四個「一道」旁見朱圈。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "則",
+          "candidates": [],
+          "note": "右三「澤」下一字形近「左」，未定。右五「隨良」、右六「察就」暫讀。右七「多」「則」附近交朱及缺字兩處待核。四個「一道」旁見朱圈。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "一道",
+          "candidates": [],
+          "note": "右三「澤」下一字形近「左」，未定。右五「隨良」、右六「察就」暫讀。右七「多」「則」附近交朱及缺字兩處待核。四個「一道」旁見朱圈。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "無",
+          "candidates": [],
+          "note": "左一「無」後有朱覆，「火女」照形候讀。左三兩字受補筆影響，候「橐籥」，大字與補墨待辨。左四「方泳」「可求」，左五「陽效」暫讀。左六脈名疑字三處未補。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "火女",
+          "candidates": [],
+          "note": "左一「無」後有朱覆，「火女」照形候讀。左三兩字受補筆影響，候「橐籥」，大字與補墨待辨。左四「方泳」「可求」，左五「陽效」暫讀。左六脈名疑字三處未補。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "方泳",
+          "candidates": [],
+          "note": "左一「無」後有朱覆，「火女」照形候讀。左三兩字受補筆影響，候「橐籥」，大字與補墨待辨。左四「方泳」「可求」，左五「陽效」暫讀。左六脈名疑字三處未補。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "可求",
+          "candidates": [],
+          "note": "左一「無」後有朱覆，「火女」照形候讀。左三兩字受補筆影響，候「橐籥」，大字與補墨待辨。左四「方泳」「可求」，左五「陽效」暫讀。左六脈名疑字三處未補。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "陽效",
+          "candidates": [],
+          "note": "左一「無」後有朱覆，「火女」照形候讀。左三兩字受補筆影響，候「橐籥」，大字與補墨待辨。左四「方泳」「可求」，左五「陽效」暫讀。左六脈名疑字三處未補。"
+        }
+      ],
+      "observations": "右面：右三「澤」下一字形近「左」，未定。右五「隨良」、右六「察就」暫讀。右七「多」「則」附近交朱及缺字兩處待核。四個「一道」旁見朱圈。 左面：左一「無」後有朱覆，「火女」照形候讀。左三兩字受補筆影響，候「橐籥」，大字與補墨待辨。左四「方泳」「可求」，左五「陽效」暫讀。左六脈名疑字三處未補。"
+    },
+    {
+      "image": 13,
+      "catalogue_page": 13,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/13",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/13",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-013.jpg",
+      "label": {
+        "none": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "4d05743e9ff4181858db1f0243a0d885506f6594cab976a667acf247b2ced7e6",
+      "bytes": 655199,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "f68c0c7cb0a95f45db189d1c5814397e60554e49e321d9098a7b76f466f80be0",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "必有是脈故傳之為二十七而脈之形狀狀畢矣傳必有約故約之"
+            },
+            {
+              "text": "為浮沉遲數滑濇緩大之八要又約之則總為浮沉遲數之"
+            },
+            {
+              "text": "四脈然就中不外乎陰陽之理浮者陽也沉者陰也每以浮沉"
+            },
+            {
+              "text": "二字盡之則陰陽判而脈無餘蘊矣"
+            },
+            {
+              "text": "夫醫之於經絡猶舟子之諳道途經者經行通行氣血以榮養"
+            },
+            {
+              "text": "於体絡者橫行別出旁支以連絡於經天有三百六十五度"
+            },
+            {
+              "text": "人有三百六十五穴以應之而其要則手足三陰三陽而已醫知乎"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣鉛筆號",
+              "text": "13",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "此則伐疾病之根源究陰陽之傳變開口動手便有□□而"
+            },
+            {
+              "text": "無錯矣蓋手之三陰從腹走足手之三陽從手走頭足之三"
+            },
+            {
+              "text": "陽從頭走足足之三陰從足走腹見左右手足十二經絡之起止"
+            },
+            {
+              "text": "與背部任督二脈之循行凡三百六十餘零五穴而周身經絡"
+            },
+            {
+              "text": "可直指而無遺矣"
+            },
+            {
+              "text": "夫藥性有大毒小毒者有無毒者大毒之藥只可袪疾中"
+            },
+            {
+              "text": "病即止而不可常服從來養性延年之劑如以君子名八仙"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "右面：右一連筆「形狀狀」可能重文，先照形。右二「濇」處朱、墨及側筆交疊，另有墨形未辨。右七中段紙面翹裂，相關數字暫依可見筆形。 左面：左一「有」後候「準的／靈驗」兩字，先不補。左二「從腹走足」照原形保留。左四「餘零五」原列如此。「夫」字旁朱圈，另有多處字側朱點。歷史論說僅見毒性分類，無製備方法。"
+    },
+    {
+      "image": 14,
+      "catalogue_page": 14,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-014.jpg",
+      "label": {
+        "none": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "0c64bb375541517bf6730c0a119889e15d2b08856bff261877833de402652613",
+      "bytes": 683341,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "8ab92580d772fc1049a15dda15ee6f385c25d6a2b70a7376103524561d02b8f2",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "名以老名類之皆取冲和之味可以衛生尚貪峻補固澁之藥"
+            },
+            {
+              "text": "以為養性延年哉是以立劑製方必有深意補脾必香燥之"
+            },
+            {
+              "text": "需非佐以甘溫之甘草以和中仍能調和諸藥以為五臟之均"
+            },
+            {
+              "text": "滋而無亢燥之弊補脾湯之甘□則必濟以藥也補腎必"
+            },
+            {
+              "text": "陰需之品非佐以鹹性之澤□以降泄仍能收攝群陰以為"
+            },
+            {
+              "text": "腎經之援引而無偏勝之虞補腎湯有澤□有補必有洩"
+            },
+            {
+              "text": "也蓋有君無使獨力難行有補無洩□滯不通見此則"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右四「甘」下欄旁濃墨補字候讀",
+              "text": "草",
+              "column_anchor": 4,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣鉛筆號",
+              "text": "14",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "古人立方精意可知矣至於施治之際除□膠於一定哉腎乃五臟"
+            },
+            {
+              "text": "之源然亡脫之机已備則急補元陽之子以陽回使腎氣一回而"
+            },
+            {
+              "text": "化源不竭於斯辰也補先天不若補後天之妙土為萬物之母"
+            },
+            {
+              "text": "然大虛之病久纏則當求水火之□以培本使根□一固而枝葉"
+            },
+            {
+              "text": "敷榮於斯辰也補後天不若補先天之為優蓋急則從權緩"
+            },
+            {
+              "text": "則從本而必有定証哉"
+            },
+            {
+              "text": "且夫醫者意也意貴圓通但嫌□滯病之當攻即攻當"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "衛生",
+          "candidates": [],
+          "note": "右一「衛生」，右四「必濟」，右六「援引」暫讀。右四「甘」下舊墨與濃墨交。右五、右六「澤」下一字都近「左」，待核，互見 f12 右三。右七「滯」上字暫缺。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "必濟",
+          "candidates": [],
+          "note": "右一「衛生」，右四「必濟」，右六「援引」暫讀。右四「甘」下舊墨與濃墨交。右五、右六「澤」下一字都近「左」，待核，互見 f12 右三。右七「滯」上字暫缺。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "援引",
+          "candidates": [],
+          "note": "右一「衛生」，右四「必濟」，右六「援引」暫讀。右四「甘」下舊墨與濃墨交。右五、右六「澤」下一字都近「左」，待核，互見 f12 右三。右七「滯」上字暫缺。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "甘",
+          "candidates": [],
+          "note": "右一「衛生」，右四「必濟」，右六「援引」暫讀。右四「甘」下舊墨與濃墨交。右五、右六「澤」下一字都近「左」，待核，互見 f12 右三。右七「滯」上字暫缺。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "澤",
+          "candidates": [],
+          "note": "右一「衛生」，右四「必濟」，右六「援引」暫讀。右四「甘」下舊墨與濃墨交。右五、右六「澤」下一字都近「左」，待核，互見 f12 右三。右七「滯」上字暫缺。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "滯",
+          "candidates": [],
+          "note": "右一「衛生」，右四「必濟」，右六「援引」暫讀。右四「甘」下舊墨與濃墨交。右五、右六「澤」下一字都近「左」，待核，互見 f12 右三。右七「滯」上字暫缺。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "除",
+          "candidates": [],
+          "note": "左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "水火之",
+          "candidates": [],
+          "note": "左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "根",
+          "candidates": [],
+          "note": "左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "權",
+          "candidates": [],
+          "note": "左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "滯",
+          "candidates": [],
+          "note": "左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "夫",
+          "candidates": [],
+          "note": "左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "臟",
+          "candidates": [],
+          "note": "左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+        }
+      ],
+      "observations": "右面：右一「衛生」，右四「必濟」，右六「援引」暫讀。右四「甘」下舊墨與濃墨交。右五、右六「澤」下一字都近「左」，待核，互見 f12 右三。右七「滯」上字暫缺。 左面：左一「除」下一字未定。左四「水火之」後候「鄉」，「根」後候「蒂」。左五末「權」有墨、朱相重。左七「滯」上候「執」，「夫」旁朱圈。左首行末「臟」在下邊緣。"
+    },
+    {
+      "image": 15,
+      "catalogue_page": 15,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/15",
+      "image_url": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "label": {
+        "none": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "b9ac06bf991348beb11b741ce7dac2c3f8dbac7113c031f390a778b9717e3ce6",
+      "bytes": 674335,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "506ae284e168e0cbb7af0b13591a14d352eccd784cc7ee44357d3f3af7178262",
+      "content_role": "medical-discourse-manuscript",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "補即補抵當承氣良用回春參朮補中恒投壽世又嘗之"
+            },
+            {
+              "text": "間何乎無法寓矣毋食膠柱而鼓琴病之宜熱則熱宜"
+            },
+            {
+              "text": "寒則寒〔省錄〕存心"
+            },
+            {
+              "text": "之下眞有易道存焉勿而刻舟而求劒蓋久旱則元陽久"
+            },
+            {
+              "text": "雨則盛陰大陽之人冬月口多喜食大陰之人夏月口多喜"
+            },
+            {
+              "text": "熱人之稟受不同而天地之運氣亦異用藥豈膠於一定"
+            },
+            {
+              "text": "哉且如六甲年土運太過法當除濕以補腎六己年土運"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣鉛筆號",
+              "text": "15",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "不及法當益脾以平木太陽寒水治以辛熱陽明燥金治"
+            },
+            {
+              "text": "以苦溫之類此五運六氣之治法也雖然有在天之運氣有"
+            },
+            {
+              "text": "在人之運氣天辰勝則舍人之病而從天之辰人病勝則舍"
+            },
+            {
+              "text": "天之辰而從人之病亦見夫人而取于天斯可立方矣"
+            },
+            {
+              "text": "且夫養生莫先於寡欲人而嗜欲不節以渴眞精耗散其"
+            },
+            {
+              "text": "眞而天壽□矣乃有八□之老人宜乎氣血衰而天癸竭"
+            },
+            {
+              "text": "胡為乎花心未艾哉有買妾者娥眉皓齒艷□姿異"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左七「艷」下側旁墨字候讀",
+              "text": "丰",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "天壽",
+          "candidates": [],
+          "note": "左六「天壽」後有朱墨交疊，「八」下一字待核。左七「艷」後覆墨與朱改，主文保留未定位置。天辰、天癸等為歷史術語，照錄。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "八",
+          "candidates": [],
+          "note": "左六「天壽」後有朱墨交疊，「八」下一字待核。左七「艷」後覆墨與朱改，主文保留未定位置。天辰、天癸等為歷史術語，照錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "艷",
+          "candidates": [],
+          "note": "左六「天壽」後有朱墨交疊，「八」下一字待核。左七「艷」後覆墨與朱改，主文保留未定位置。天辰、天癸等為歷史術語，照錄。"
+        }
+      ],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左六「天壽」後有朱墨交疊，「八」下一字待核。左七「艷」後覆墨與朱改，主文保留未定位置。天辰、天癸等為歷史術語，照錄。"
+    },
+    {
+      "image": 16,
+      "catalogue_page": 16,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "page_url": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "image_url": "https://lib.nomfoundation.org/site_media/nom/nlvnpf-0763/large/nlvnpf-0763-016.jpg",
+      "label": {
+        "none": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "5fbf929f5778c74fdc2efc8e2247352c0c011b066d86def735b67d50040c7764",
+      "bytes": 683058,
+      "width": 2000,
+      "height": 1817,
+      "page_html_sha256": "3ce5de8dd5ff943d4704a3551af05d12903ca1ce8fb3aa72803c489b1c205319",
+      "content_role": "medical-discourse-manuscript",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "髮未□嬌□体態斯良也對景生情自不無侵襲之事"
+            },
+            {
+              "text": "矣而神茂色澤不服靈丹鶴髮似顏蓋延壽果如是"
+            },
+            {
+              "text": "何哉蓋人之有生全賴先天之眞火蓋見夫鰲山走馬燈"
+            },
+            {
+              "text": "者拜者舞者馳者走者無不具其中究其所以惟然一火"
+            },
+            {
+              "text": "耳彼年踰耆艾而春心□動者乃天壽過度而眞火有"
+            },
+            {
+              "text": "餘者卜此心而敦于火可以為壽之證壽既□于今愈"
+            },
+            {
+              "text": "□于昔矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右一「態」下欄旁濃墨",
+              "text": "□",
+              "column_anchor": 1,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣鉛筆號",
+              "text": "16",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "殊參之易大過九二枯楊生稊老夫□女妻無不利蓋言"
+            },
+            {
+              "text": "老陽遇少陰可以成養育之功原□房中補益之美苟"
+            },
+            {
+              "text": "買妻妾也而耽乎衽席溺乎房圍將以成養育之功□"
+            },
+            {
+              "text": "為房中補益之美"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左二「原」下字右旁朱筆候讀",
+              "text": "非",
+              "column_anchor": 2,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "右一「態」下欄旁濃墨",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "未",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "嬌",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "斯良",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "似",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "果",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "心",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "卜",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "敦于火",
+          "candidates": [],
+          "note": "右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "老夫",
+          "candidates": [],
+          "note": "左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "女妻",
+          "candidates": [],
+          "note": "左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "房圍",
+          "candidates": [],
+          "note": "左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "美",
+          "candidates": [],
+          "note": "左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。"
+        }
+      ],
+      "observations": "右面：右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。 左面：左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。"
+    }
+  ]
+}

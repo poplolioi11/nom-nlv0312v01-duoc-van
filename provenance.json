@@ -1,0 +1,189 @@
+{
+  "historical_author": "撰人未詳",
+  "source_identity": "越南國家圖書館 R.312，Nôm Foundation NLVNPF-0763",
+  "source": "https://lib.nomfoundation.org/collection/1/volume/951/",
+  "source_image_viewer": "https://lib.nomfoundation.org/collection/1/volume/951/page/1",
+  "source_rights_policy": "https://www.nomfoundation.org/About-the-Foundation/Terms-of-use?uiLang=en",
+  "dataset_version": "0.1.0",
+  "scan_count": 16,
+  "content_scan_count": 16,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/1",
+      "label": {
+        "none": [
+          "1"
+        ]
+      },
+      "sha256": "52385594e90dace1a5ca747a7f08761a0db72c028fa62141c56b90b39688507e",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/2",
+      "label": {
+        "none": [
+          "2"
+        ]
+      },
+      "sha256": "479a96baaad5707a00ab383124e002080dd8a475f3025718e64b0cc349cf2943",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "label": {
+        "none": [
+          "3"
+        ]
+      },
+      "sha256": "a9d28a20a0fd9d1e68b3c51b54e7d6edc05c150c01e5061993d0204f5e24d54d",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "label": {
+        "none": [
+          "4"
+        ]
+      },
+      "sha256": "faac73f85b8a0f5a521efc5393854b57c6dcd0b0d1397d17dca2e0e9809a38fa",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/5",
+      "label": {
+        "none": [
+          "5"
+        ]
+      },
+      "sha256": "affa9724a8173026d2d8340ac748ac921eb7e96f4584dc46c1bfda058d4702c5",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/6",
+      "label": {
+        "none": [
+          "6"
+        ]
+      },
+      "sha256": "7806a4b82b18be7199227e3af36d1ed8c58623a9fdadb96a3d501d7275d15341",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "label": {
+        "none": [
+          "7"
+        ]
+      },
+      "sha256": "53a4b9e5ec63cfe6cfc594a17e4efdc13bbe4ad2244020326ba59771010bf87b",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "label": {
+        "none": [
+          "8"
+        ]
+      },
+      "sha256": "daf0206d49f9f19981de12e50028e52901f00010432d6eaa3cdb1a2e741a9ce3",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "label": {
+        "none": [
+          "9"
+        ]
+      },
+      "sha256": "4956b68288cab0b802ebef55eb1affe6f109e7961985747e0985c32b346308ea",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/10",
+      "label": {
+        "none": [
+          "10"
+        ]
+      },
+      "sha256": "a40a478954a6cecb78e74ce818de963194697d00a001d3731eca69ea2997fbf7",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "label": {
+        "none": [
+          "11"
+        ]
+      },
+      "sha256": "1184220f0a9a6c414301adfc00f6e761f68e3c562192f56e4378ecfa65c22620",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "label": {
+        "none": [
+          "12"
+        ]
+      },
+      "sha256": "18051f89aa7603e2af9d6c1b2202a964b62ce4e634e2c79f593b7132019fd147",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/13",
+      "label": {
+        "none": [
+          "13"
+        ]
+      },
+      "sha256": "4d05743e9ff4181858db1f0243a0d885506f6594cab976a667acf247b2ced7e6",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "label": {
+        "none": [
+          "14"
+        ]
+      },
+      "sha256": "0c64bb375541517bf6730c0a119889e15d2b08856bff261877833de402652613",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "label": {
+        "none": [
+          "15"
+        ]
+      },
+      "sha256": "b9ac06bf991348beb11b741ce7dac2c3f8dbac7113c031f390a778b9717e3ce6",
+      "content_role": "medical-discourse-manuscript"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "label": {
+        "none": [
+          "16"
+        ]
+      },
+      "sha256": "5fbf929f5778c74fdc2efc8e2247352c0c011b066d86def735b67d50040c7764",
+      "content_role": "medical-discourse-manuscript"
+    }
+  ]
+}
