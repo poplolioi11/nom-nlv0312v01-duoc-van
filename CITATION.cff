@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '藥文（十九世紀抄本（實勘推定），越南國家圖書館 R.312） / Dược văn [Discourse on medical diagnosis]:
   Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

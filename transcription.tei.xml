@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -205,7 +205,7 @@
               <seg type="diplomatic-text">妄弛經白而滯不通頃來忌食常吞不寢火盛血衰平日</seg>
             </ab>
             <ab type="column" n="6" xml:id="f02-r-c06">
-              <seg type="diplomatic-text">好眠多痰氣滯凡百病當先問後來救病机而欲調品藥</seg>
+              <seg type="diplomatic-text">好眠多痰氣滯凡百病當先問後來救病机而施調品藥</seg>
             </ab>
             <ab type="column" n="7" xml:id="f02-r-c07">
               <seg type="diplomatic-text">不但男子先問房勞女子先問經孕為治法也膾菜食□</seg>
@@ -243,6 +243,18 @@
             <ab type="transcription-issue" n="right:7">
               <quote>□</quote>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>後來</quote>
+              <seg type="candidate">後來</seg>
+              <seg type="candidate">攸來</seg>
+              <note type="editorial">右旁近攵，左部未定。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>好熱不熟</quote>
+              <seg type="candidate">好熱不熟</seg>
+              <seg type="candidate">好熱不熱</seg>
+              <note type="editorial">熟字上層有淡朱，與同欄熱形互為候讀。</note>
             </ab>
           </div>
         </div>
@@ -616,6 +628,8 @@
             </ab>
             <ab type="column" n="7" xml:id="f07-l-c07">
               <seg type="diplomatic-text">東垣丹溪之論而可見矣故施藥療病之法必當窮受病之</seg>
+              <note type="original-mark" n="1" rend="red">丨</note>
+              <note type="original-mark" n="3" rend="red">丨</note>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -1143,6 +1157,12 @@
               <quote>□</quote>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
             </ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>濇</quote>
+              <seg type="candidate">濇</seg>
+              <seg type="candidate">清</seg>
+              <note type="editorial">底墨字近青部，其旁仍見朱痕和疑似四的小黑字。</note>
+            </ab>
           </div>
         </div>
         <pb n="14" facs="#f14" />
@@ -1403,7 +1423,7 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f16-l-c01">
-              <seg type="diplomatic-text">殊參之易大過九二枯楊生稊老夫□女妻無不利蓋言</seg>
+              <seg type="diplomatic-text">然參之易大過九二枯楊生稊老夫□女妻無不利蓋言</seg>
             </ab>
             <ab type="column" n="2" xml:id="f16-l-c02">
               <seg type="diplomatic-text">老陽遇少陰可以成養育之功原□房中補益之美苟</seg>
@@ -1413,9 +1433,10 @@
             </ab>
             <ab type="column" n="4" xml:id="f16-l-c04">
               <seg type="diplomatic-text">為房中補益之美</seg>
+              <note type="original-mark" n="7" rend="red">、</note>
             </ab>
             <ab type="page-feature" subtype="manuscript-annotation" corresp="#f16-l-c02">
-              <label>左二「原」下字右旁朱筆候讀</label>
+              <label>左二「原」下字右旁朱筆</label>
               <seg type="diplomatic-text" rend="red">非</seg>
             </ab>
           </div>
@@ -1500,6 +1521,16 @@
             <ab type="transcription-issue" n="left:None">
               <quote>美</quote>
               <note type="editorial">左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>稊</quote>
+              <seg type="candidate">稊</seg>
+              <seg type="candidate">梯</seg>
+              <note type="editorial">弟形清楚，左木或禾未定。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>朱非所旁的黑底字</quote>
+              <note type="editorial">朱補可讀非，黑墨底字仍不明。</note>
             </ab>
           </div>
         </div>

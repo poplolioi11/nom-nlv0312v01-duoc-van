@@ -1,0 +1,918 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 5,
+  "changes": [
+    {
+      "image": 2,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "而欲調",
+      "after": "而施調",
+      "reason": "第一疑字可見方狀左部與右末的長鉤形。",
+      "source_bbox": [
+        1121,
+        1392,
+        1244,
+        1676
+      ],
+      "offset": [
+        17,
+        20
+      ],
+      "source_image_sha256": "479a96baaad5707a00ab383124e002080dd8a475f3025718e64b0cc349cf2943",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/951/page/2"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 7,
+      "kind": "paratext",
+      "op": "locate-reading-marks",
+      "before": "朱筆位置未獨立編碼",
+      "after": "依原圖分層定位 2 筆",
+      "reason": "朱筆的位置可依旁邊正文字定位。",
+      "source_bbox": [
+        222,
+        236,
+        335,
+        651
+      ],
+      "source_image_sha256": "53a4b9e5ec63cfe6cfc594a17e4efdc13bbe4ad2244020326ba59771010bf87b",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/951/page/7"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "殊參",
+      "after": "然參",
+      "reason": "首字上半可辨犬部樣，底部見散墨短筆。",
+      "source_bbox": [
+        905,
+        230,
+        1001,
+        560
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "source_image_sha256": "5fbf929f5778c74fdc2efc8e2247352c0c011b066d86def735b67d50040c7764",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/951/page/16"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 4,
+      "kind": "paratext",
+      "op": "locate-reading-marks",
+      "before": "朱筆位置未獨立編碼",
+      "after": "依原圖分層定位 1 筆",
+      "reason": "朱筆的位置可依旁邊正文字定位。",
+      "source_bbox": [
+        608,
+        239,
+        716,
+        795
+      ],
+      "source_image_sha256": "5fbf929f5778c74fdc2efc8e2247352c0c011b066d86def735b67d50040c7764",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/951/page/16"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 2,
+      "kind": "paratext",
+      "op": "confirm-annotation",
+      "before": "朱筆非作候讀",
+      "after": "原圖朱字非",
+      "reason": "三短橫與分立兩豎可辨，旁朱和底墨分層。",
+      "source_bbox": [
+        813,
+        1031,
+        946,
+        1177
+      ],
+      "source_image_sha256": "5fbf929f5778c74fdc2efc8e2247352c0c011b066d86def735b67d50040c7764",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/951/page/16"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/1",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/1",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/1",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/2",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/2",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/2",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/4",
+      "status": "字形待核"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "status": "字形待核"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "status": "字形待核"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "status": "字形待核"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "status": "字形待核"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "status": "字形待核"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "status": "字形待核"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "status": "字形待核"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "status": "字形待核"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "status": "字形待核"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "status": "字形待核"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/8",
+      "status": "字形待核"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/10",
+      "status": "字形待核"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/10",
+      "status": "字形待核"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "status": "字形待核"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "status": "字形待核"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "status": "字形待核"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "status": "字形待核"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/11",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/12",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/13",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/13",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 2,
+      "side": "right",
+      "column": 7,
+      "source_image_sha256": "479a96baaad5707a00ab383124e002080dd8a475f3025718e64b0cc349cf2943",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/2",
+      "reading": "男子先問房勞女子先問經孕",
+      "reason": "照印面詞形。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 7,
+      "source_image_sha256": "53a4b9e5ec63cfe6cfc594a17e4efdc13bbe4ad2244020326ba59771010bf87b",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/7",
+      "reading": "東垣丹溪之論",
+      "reason": "字形可辨，欄旁朱短畫另錄。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "4d05743e9ff4181858db1f0243a0d885506f6594cab976a667acf247b2ced7e6",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/13",
+      "reading": "可直指而無遺矣",
+      "reason": "直下有添墨，保留主字。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 4,
+      "source_image_sha256": "5fbf929f5778c74fdc2efc8e2247352c0c011b066d86def735b67d50040c7764",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/951/page/16",
+      "reading": "為房中補益之美",
+      "reason": "底本所見最後短欄，其後紙面無新增正文。",
+      "status": "依原圖留讀"
+    }
+  ]
+}

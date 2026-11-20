@@ -4,11 +4,11 @@
 
 Dược văn is a Literary Chinese medical discourse from Vietnam. Its examples address how a historical clinician might consider constitution, emotions, circumstances, and the course of illness during an inquiry. The National Library of Vietnam manuscript R.312 has no catalogue date. A bibliographical examination estimates a nineteenth-century copy.
 
-## V0.1.0
+## V0.2.0
 
-全件16幅均編目，保留原件欄序及可辨識的朱點、改字、夾註與紙損定位。 公開文字有局部省錄標記。AI 輔助逐欄初錄，疑讀及淡跡另記。
+全件16幅均編目，保留原件欄序及可辨識的朱點、改字、夾註與紙損定位。 公開文字有局部省錄標記。比對未見初稿的本機 OCR 候選後，回圖裁定採用 5 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 16 openings are indexed, with writing order, discernible red marks and corrections, interlinear text, and damage recorded by source location. Local omissions are marked. AI-assisted source transcription with markings for unresolved readings.
+All 16 openings are indexed, with writing order, discernible red marks and corrections, interlinear text, and damage recorded by source location. Local omissions are marked. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 5 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

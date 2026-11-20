@@ -19,11 +19,11 @@
     "manifest_url": null,
     "manifest_sha256": null,
     "record_id": "NLV0312V01",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": "Complete manuscript, official viewer openings 1–16",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "藥文（十九世紀抄本（實勘推定），越南國家圖書館 R.312） / Dược văn [Discourse on medical diagnosis]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -48,7 +48,7 @@
       "height": 1817,
       "page_html_sha256": "d02c3bef366e6406dae2c22dfca72203749059eb6b15beb0048db4d40f828a0f",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -185,7 +185,7 @@
       "height": 1817,
       "page_html_sha256": "599b9141fa05da597e9da6bb1089ac5e56d3112b5e24a419c0d732af8fb38edb",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -206,7 +206,7 @@
               "text": "妄弛經白而滯不通頃來忌食常吞不寢火盛血衰平日"
             },
             {
-              "text": "好眠多痰氣滯凡百病當先問後來救病机而欲調品藥"
+              "text": "好眠多痰氣滯凡百病當先問後來救病机而施調品藥"
             },
             {
               "text": "不但男子先問房勞女子先問經孕為治法也膾菜食□"
@@ -257,6 +257,26 @@
           "context": "□",
           "candidates": [],
           "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "後來",
+          "candidates": [
+            "後來",
+            "攸來"
+          ],
+          "note": "右旁近攵，左部未定。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "好熱不熟",
+          "candidates": [
+            "好熱不熟",
+            "好熱不熱"
+          ],
+          "note": "熟字上層有淡朱，與同欄熱形互為候讀。"
         }
       ],
       "observations": "左面：朱點、墨點分色可見，未逐點編碼。右三「殊」「癈」、右四「鬱徑」、右五「弛」「頃」「吞」、右六「後」「欲」，左一「熱熾碗」、左二「芳迷」、左三「藏另推」及「熱腸」、左四「熟越」均待覆核。右末近脊折損。"
@@ -279,7 +299,7 @@
       "height": 1817,
       "page_html_sha256": "8d69ebf3c1197eee41801b324f58a96ca1a6500bf67b47c633ba8d71d9771f2b",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -450,7 +470,7 @@
       "height": 1817,
       "page_html_sha256": "f9998beaa8b92c4a9825bdd96fbc03da0a2669bd27f2d7c2b6ca9a493e825a82",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -607,7 +627,7 @@
       "height": 1817,
       "page_html_sha256": "d3d1d81582837558e0aba1c013477d5be93266a472ab41e3e25b6db671a2f348",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -693,7 +713,7 @@
       "height": 1817,
       "page_html_sha256": "829fd66d9be68565f3ae89561ddd18a3db3ff05233065743bf8bfbf21529926f",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -779,7 +799,7 @@
       "height": 1817,
       "page_html_sha256": "005e50ae6b2796685dbfcf5f06182f22fe4e00c417ec580e0debc9221b8fa16a",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -852,7 +872,19 @@
               "text": "而血陰也分陰分陽之義也氣血自有陰陽互為其根之理也見"
             },
             {
-              "text": "東垣丹溪之論而可見矣故施藥療病之法必當窮受病之"
+              "text": "東垣丹溪之論而可見矣故施藥療病之法必當窮受病之",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "丨",
+                  "color": "red"
+                },
+                {
+                  "after": 3,
+                  "mark": "丨",
+                  "color": "red"
+                }
+              ]
             }
           ],
           "extras": []
@@ -915,7 +947,7 @@
       "height": 1817,
       "page_html_sha256": "59b24de40ce877f8bc20a207f6db884f0b473b7d053b7ed950a2e8e17a1d67d0",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1190,7 +1222,7 @@
       "height": 1817,
       "page_html_sha256": "eb2c74d3dec96dee2ba0025f6da74364bffe9b9d184b6c81809d56d132831ac2",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1291,7 +1323,7 @@
       "height": 1817,
       "page_html_sha256": "e505728cb9f930f8fc84b92c7c203f27fc1456117615e9c8ba94f851cdf92a5b",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1439,7 +1471,7 @@
       "height": 1817,
       "page_html_sha256": "289849b95e406cc6e92edf5f67e2cb6d9bc26ea9d90e12f3f73bf430f5735311",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1646,7 +1678,7 @@
       "height": 1817,
       "page_html_sha256": "f68c0c7cb0a95f45db189d1c5814397e60554e49e321d9098a7b76f466f80be0",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1718,6 +1750,16 @@
           "context": "□",
           "candidates": [],
           "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "濇",
+          "candidates": [
+            "濇",
+            "清"
+          ],
+          "note": "底墨字近青部，其旁仍見朱痕和疑似四的小黑字。"
         }
       ],
       "observations": "右面：右一連筆「形狀狀」可能重文，先照形。右二「濇」處朱、墨及側筆交疊，另有墨形未辨。右七中段紙面翹裂，相關數字暫依可見筆形。 左面：左一「有」後候「準的／靈驗」兩字，先不補。左二「從腹走足」照原形保留。左四「餘零五」原列如此。「夫」字旁朱圈，另有多處字側朱點。歷史論說僅見毒性分類，無製備方法。"
@@ -1740,7 +1782,7 @@
       "height": 1817,
       "page_html_sha256": "8ab92580d772fc1049a15dda15ee6f385c25d6a2b70a7376103524561d02b8f2",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2114,7 +2156,7 @@
       "height": 1817,
       "page_html_sha256": "3ce5de8dd5ff943d4704a3551af05d12903ca1ce8fb3aa72803c489b1c205319",
       "content_role": "medical-discourse-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2162,7 +2204,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "殊參之易大過九二枯楊生稊老夫□女妻無不利蓋言"
+              "text": "然參之易大過九二枯楊生稊老夫□女妻無不利蓋言"
             },
             {
               "text": "老陽遇少陰可以成養育之功原□房中補益之美苟"
@@ -2171,13 +2213,20 @@
               "text": "買妻妾也而耽乎衽席溺乎房圍將以成養育之功□"
             },
             {
-              "text": "為房中補益之美"
+              "text": "為房中補益之美",
+              "marks": [
+                {
+                  "after": 7,
+                  "mark": "、",
+                  "color": "red"
+                }
+              ]
             }
           ],
           "extras": [
             {
               "type": "manuscript-annotation",
-              "location": "左二「原」下字右旁朱筆候讀",
+              "location": "左二「原」下字右旁朱筆",
               "text": "非",
               "column_anchor": 2,
               "color": "red"
@@ -2325,6 +2374,23 @@
           "context": "美",
           "candidates": [],
           "note": "左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "稊",
+          "candidates": [
+            "稊",
+            "梯"
+          ],
+          "note": "弟形清楚，左木或禾未定。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "朱非所旁的黑底字",
+          "candidates": [],
+          "note": "朱補可讀非，黑墨底字仍不明。"
         }
       ],
       "observations": "右面：右一「未」「嬌」後字未定，後者候「嬈」，「斯良」暫讀，旁有補墨。右二「似」保留可見人旁與散筆，候「仙」；「果」暫讀。右五「心」後候「頻／類」。右六「卜」「敦于火」暫讀。右七首字未決。 左面：左一「老夫」後字候「多」，與「女妻」間照墨跡留疑，未用通行《易》文字補足。左二原字不明，右有朱補形。左三「房圍」暫讀，末字未定。左四末字「美」有朱點，後方版面空白。可確認此處是本掃描最後文字，無卷終題或可辨刊記。"
